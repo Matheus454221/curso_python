@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< Avaiação Masculina
 # IMC	CLASSIFICAÇÃO	OBESIDADE (GRAU)
     MENOR QUE 18,5	MAGREZA 0
     ENTRE 18,5 E 24,9	NORMAL 0
