@@ -1,14 +1,12 @@
-weight = float(input("Digite seu peso: "))
+from functions_grau_obesidade.functions import imc
 
-height = float(input("Digite sua altura: "))
+imc()
 
-
-imc = weight/(height * height)
-
-if 1.67 > height <= 1.70 and 70 > weight >= 54:
-    print(f"Sua massa corporal é {imc}")
-    print ("Sua massa corporal é conciderada normal para o sua altura")
 
     
 
+    
 
+ 
+
+ 
